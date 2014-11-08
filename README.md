@@ -1,8 +1,8 @@
 HTML Language Exercise
 ======================
 
-Follow each step exactly.
-
+Follow each step exactly
+.
 Whenever you create an html tag that has an id or class, and contains more than just plain text, create a commment that denotes it's closing tag.
 
 For example:
